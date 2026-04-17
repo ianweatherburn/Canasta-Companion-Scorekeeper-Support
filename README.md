@@ -8,7 +8,7 @@ Keeping score in Canasta has never been easier. No more pen-and-paper, manual ca
 # Canasta Companion - Scorekeeper
 Download from the [App Store now](https://apps.apple.com/za/app/10-10-scorekeeper/id6759612524)!
 
-### Copyright 2026 by Ian Weatherburn
+### Copyright © 2026 by Ian Weatherburn
 ianweatherburn@gmail.com
 
 ## Description
@@ -30,3 +30,6 @@ Whether it's a casual game with friends or a competitive match, **Canasta Compan
 ## Supports
 - iOS 26.0+ Portrait Mode Only
 - Point-Scoring Variations: Classic Canasta; Modern American; Samba and Pennies from Heaven
+
+## Other Apps
+- [10-10 Scorekeeper](https://apps.apple.com/za/app/10-10-scorekeeper/id6759612524) - A scorekeeper app for the card-game 10-10 (aka "Judgement", "Trumps", "Oh Pshaw!", or "O Hell")
