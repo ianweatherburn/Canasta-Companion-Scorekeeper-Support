@@ -1,5 +1,5 @@
 # Canasta-Companion-Scorekeeper-Support
-Keeping score in Canasta has never been easier. No more pen-and-paper, manual calculations, rule debates, or scorekeeping. Canasta Companion - Scorekeeper** handles everything, so you can focus on the game.
+Keeping score in Canasta has never been easier. No more pen-and-paper, manual calculations, rule debates, or scorekeeping. **Canasta Companion - Scorekeeper** handles everything, so you can focus on the game.
 
 <p align="center">
   <img src="Canasta Companion - Scorekeeper.png" alt="Canasta Companion - Scorekeeper" width="250" />
