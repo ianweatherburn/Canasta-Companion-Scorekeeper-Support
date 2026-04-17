@@ -31,5 +31,5 @@ Whether it's a casual game with friends or a competitive match, **Canasta Compan
 - iOS 26.0+ Portrait Mode Only
 - Point-Scoring Variations: Classic Canasta; Modern American; Samba and Pennies from Heaven
 
-## Other Apps
+## Other Apps by Ian Weatherburn
 - [10-10 Scorekeeper](https://apps.apple.com/za/app/10-10-scorekeeper/id6759612524) - A scorekeeper app for the card-game 10-10 (aka "Judgement", "Trumps", "Oh Pshaw!", or "O Hell")
