@@ -28,5 +28,5 @@ Keeping score in Canasta has never been easier. No more pen-and-paper, manual ca
 Whether it's a casual game with friends or a competitive match, **Canasta Companion - Scorekeeper** keeps gameplay smooth, fair and enjoyable.
 
 ## Supports
-- iOS 26.0+
-- iPhone portrait orientation only
+- iOS 26.0+ Portrait Mode Only
+- Point-Scoring Variations: Classic Canasta; Modern American; Samba and Pennies from Heaven
