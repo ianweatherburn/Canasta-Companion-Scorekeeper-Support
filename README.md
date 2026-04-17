@@ -21,7 +21,7 @@ Keeping score in Canasta has never been easier. No more pen-and-paper, manual ca
 - **Automated Scoring**: Each round is accurately scored with little effort.
 - **Meld Requirements**: Show the minimum meld point requirement for each team as the score progresses.
 - **Game Progress**: Show the current progress to game victory.
-**•** **Team Statistics**: Extensive statistics track wins, losses, overall team performances, history, game-style and much more.
+- **Team Statistics**: Extensive statistics track wins, losses, overall team performances, history, game-style and much more.
 - **Shared Games**: iCloud game sharing allows teams to capture their own scores on their own-devices, simultaneously.
 - **Game Types**: Supports 4 different game types including Classic Canasta, Modern American, Samba and Pennies from Heaven.
 
