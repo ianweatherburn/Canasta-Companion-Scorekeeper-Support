@@ -36,7 +36,7 @@ Whether it's a casual game with friends or a competitive match, **Canasta Compan
     </td>
     <td align="center">
       <img src="CanastaCompanionScorecard__02_ReadyToPlay.png" width="200"><br>
-      Team Setup
+      Game Setup
     </td>
     <td align="center">
       <img src="CanastaCompanionScorecard_03_RoundScoring.png" width="200"><br>
