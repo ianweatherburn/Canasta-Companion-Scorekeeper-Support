@@ -1,5 +1,5 @@
-# Canasta-Companion-Scorekeeper-Support
-Keeping score in Canasta has never been easier. No more pen-and-paper, manual calculations, rule debates, or scorekeeping. **Canasta Companion - Scorekeeper** handles everything, so you can focus on the game.
+# Canasta Companion: Scorecard Support
+Keeping score in Canasta has never been easier. No more pen-and-paper, manual calculations, rule debates, or scorekeeping. **Canasta Companion - Scorecard** handles everything, so you can focus on the game.
 
 <p align="center">
   <img src="Canasta Companion - Scorekeeper.png" alt="Canasta Companion - Scorekeeper" width="250" />
@@ -14,7 +14,7 @@ ianweatherburn@gmail.com
 ## Description
 **Canasta** is a classic rummy-style card game where players form melds of seven cards (called *canastas*) to score points through strategy and teamwork. It blends skill and luck, with special rules around wild cards and bonuses that make each round dynamic and competitive.
     
-Keeping score in Canasta has never been easier. No more pen-and-paper, manual calculations, rule debates, or scorekeeping. **Canasta Companion - Scorekeeper** handles everything, so you can focus on the game.
+Keeping score in Canasta has never been easier. No more pen-and-paper, manual calculations, rule debates, or scorekeeping. **Canasta Companion - Scorecard** handles everything, so you can focus on the game.
   
 **Key Features**
 - **Tap to Score**: Enter scores with simple taps or drags. All calculations are handled automatically.
@@ -25,7 +25,7 @@ Keeping score in Canasta has never been easier. No more pen-and-paper, manual ca
 - **Shared Games**: iCloud game sharing allows teams to capture their own scores on their own-devices, simultaneously.
 - **Game Types**: Supports 4 different game types including Classic Canasta, Modern American, Samba and Pennies from Heaven.
 
-Whether it's a casual game with friends or a competitive match, **Canasta Companion - Scorekeeper** keeps gameplay smooth, fair and enjoyable.
+Whether it's a casual game with friends or a competitive match, **Canasta Companion - Scorecard** keeps gameplay smooth, fair and enjoyable.
 
 **Screenshots**
 <table>
