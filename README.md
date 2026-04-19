@@ -17,15 +17,15 @@ ianweatherburn@gmail.com
 Keeping score in Canasta has never been easier. No more pen-and-paper, manual calculations, rule debates, or scorekeeping. **Canasta Companion - Scorecard** handles everything, so you can focus on the game.
   
 **Key Features**
-- **Tap to Score**: Enter scores with simple taps or drags. All calculations are handled automatically.
+- **Tap to Score**: Enter scores with simple *taps* or *drags*. All calculations are handled automatically.
 - **Automated Scoring**: Each round is accurately scored with little effort.
 - **Meld Requirements**: Show the minimum meld point requirement for each team as the score progresses.
 - **Game Progress**: Show the current progress to game victory.
 - **Team Statistics**: Extensive statistics track wins, losses, overall team performances, history, game-style and much more.
-- **Shared Games**: iCloud game sharing allows teams to capture their own scores on their own-devices, simultaneously.
+- **Shared Games**: iCloud game sharing allows teams to capture their own scores on their *own-devices*, simultaneously.
 - **Game Types**: Supports 4 different game types including Classic Canasta, Modern American, Samba and Pennies from Heaven.
 
-Whether it's a casual game with friends or a competitive match, **Canasta Companion - Scorecard** keeps gameplay smooth, fair and enjoyable.
+Whether it's a casual game with friends or a competitive match, **Canasta Companion - Scorecard** keeps game-play smooth, fair and enjoyable.
 
 **Screenshots**
 <table>
