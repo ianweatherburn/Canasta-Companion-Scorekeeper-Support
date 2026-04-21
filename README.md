@@ -6,7 +6,7 @@ Keeping score in Canasta has never been easier. No more pen-and-paper, manual ca
 </p>
 
 # Canasta Companion - Scorecard
-Download from the [App Store now](https://apps.apple.com/za/app/10-10-scorekeeper/id6759612524)!
+Download from the [App Store now](https://apps.apple.com/us/app/canasta-companion/id6762453972)!
 
 ### Copyright © 2026 by Ian Weatherburn
 ianweatherburn@gmail.com
