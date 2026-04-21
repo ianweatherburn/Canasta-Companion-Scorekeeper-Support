@@ -5,7 +5,7 @@ Keeping score in Canasta has never been easier. No more pen-and-paper, manual ca
   <img src="Canasta Companion - Scorekeeper.png" alt="Canasta Companion - Scorekeeper" width="250" />
 </p>
 
-# Canasta Companion - Scorekeeper
+# Canasta Companion - Scorecard
 Download from the [App Store now](https://apps.apple.com/za/app/10-10-scorekeeper/id6759612524)!
 
 ### Copyright © 2026 by Ian Weatherburn
